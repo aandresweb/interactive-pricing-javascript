@@ -1,3 +1,3 @@
 # DEMO
 
-[https://interactive-pricing-javascript.aandresweb.com/]
+https://interactive-pricing-javascript.aandresweb.com/
